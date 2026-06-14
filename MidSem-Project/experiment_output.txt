@@ -1,0 +1,267 @@
+==========================================
+SLURM_CLUSTER_NAME = paramrudra
+SLURM_ARRAY_JOB_ID = 
+SLURM_ARRAY_TASK_ID = 
+SLURM_ARRAY_TASK_COUNT = 
+SLURM_ARRAY_TASK_MAX = 
+SLURM_ARRAY_TASK_MIN = 
+SLURM_JOB_ACCOUNT = iitk
+SLURM_JOB_ID = 2587
+SLURM_JOB_NAME = run_experiments.sh
+SLURM_JOB_NODELIST = rdcn[25-26]
+SLURM_JOB_USER = iitk_31
+SLURM_JOB_UID = 55332
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 691021
+SLURM_SUBMIT_DIR = /home/iitk_31
+SLURM_CPUS_ON_NODE = 16
+SLURM_NTASKS = 32
+SLURM_TASK_PID = 691021
+==========================================
+Running P=8 M=262144...
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691038] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691038] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691089] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691089] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691135] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691135] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691181] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691181] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691227] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691227] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Running P=8 M=1048576...
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691273] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691273] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691319] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691319] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691365] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691365] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691411] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691411] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691457] 7 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691457] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Running P=16 M=262144...
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691503] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691503] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691581] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691581] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691659] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691659] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691737] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691737] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691815] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691815] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Running P=16 M=1048576...
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691893] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691893] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:691971] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:691971] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692049] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692049] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692127] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692127] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692206] 15 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692206] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Running P=32 M=262144...
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692284] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692284] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692362] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692362] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692440] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692440] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692518] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692518] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692596] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692596] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Running P=32 M=1048576...
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692674] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692674] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn26
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692752] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692752] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692830] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692830] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn26
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692908] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692908] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+--------------------------------------------------------------------------
+WARNING: There was an error initializing an OpenFabrics device.
+
+  Local host:   rdcn25
+  Local device: mlx5_0
+--------------------------------------------------------------------------
+[rdcn25:692986] 31 more processes have sent help message help-mpi-btl-openib.txt / error in device init
+[rdcn25:692986] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Experiments completed. Data saved to timing_data.txt
